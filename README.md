@@ -70,8 +70,8 @@ The dataset for training and evaluation consists of 10,000 samples, representing
 
 Clone the repository:
    ```sh
-   git clone <repository_url>
-   cd <repository>
+   git clone "https://github.com/mk12002/PoC_Project.git"
+   cd PoC_Project
    ```
 
 ## Conclusion
